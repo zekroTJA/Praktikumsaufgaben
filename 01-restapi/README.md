@@ -2,6 +2,8 @@
 
 ## Ziel
 
+Baue eine JSON HTTP API in Go, mit welcher man eine Liste von Bestellungen aufrufen, um Einträge erweitern und aus der man Einträge löschen kann.
+
 ## Ressourcen
 
 ### REST API Fundament
