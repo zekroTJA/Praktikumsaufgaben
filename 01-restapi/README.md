@@ -19,8 +19,12 @@ Baue eine JSON HTTP API in Go, mit welcher man eine Liste von Bestellungen aufru
 
 ### Dokumentation
 
+- Allgemeine Referenzen zu HTTP: https://http.dev
 - JSON in Go by Example: https://gobyexample.com/json
 - Go JSON Package Dokumentation: https://pkg.go.dev/encoding/json
-- Allgemeine Referenzen zu HTTP: https://http.dev
 - HTTP Server in Go by Example: https://gobyexample.com/http-servers
 - Go HTTP Package Dokumentation: https://pkg.go.dev/net/http
+
+## Tools
+
+- Thunder Client: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
